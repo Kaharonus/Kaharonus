@@ -1,6 +1,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaharonus&count_private=true&include_all_commits=true&show_icons=true&title_color=000&text_color=000"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaharonus&layout=compact&title_color=000&text_color=000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaharonus&title_color=000&text_color=000" />
 
 <!--
 **Kaharonus/Kaharonus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
