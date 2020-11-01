@@ -1,5 +1,5 @@
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaharonus&count_private=true&include_all_commits=true&show_icons=true&title_color=000&text_color=000&hide_border=true"/>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaharonus&count_private=true&include_all_commits=true&show_icons=true&title_color=000&text_color=000&hide_border=true&hide=contribs"/>
   </a>
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaharonus&layout=compact&title_color=000&text_color=000&hide_border=true" />
 </a>
